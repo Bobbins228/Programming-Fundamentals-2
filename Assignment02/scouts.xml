@@ -1,0 +1,119 @@
+<object-stream>
+  <list>
+    <BeaverScout>
+      <name>Alex Denby</name>
+      <county>Dublin</county>
+      <dateOfBirth>18/03/2012</dateOfBirth>
+      <address>Tallaght</address>
+      <phoneNumber>083 284 3756</phoneNumber>
+      <specialInterests>
+        <SpecialInterest>
+          <interestCategory>Soccer</interestCategory>
+          <details>Soccer club in Tallaght</details>
+          <dateBadgeReceived>20/01/2020</dateBadgeReceived>
+        </SpecialInterest>
+      </specialInterests>
+      <parentPhone>085 958 4957</parentPhone>
+    </BeaverScout>
+    <BeaverScout>
+      <name>Sarah Mooney</name>
+      <county>Tipperary</county>
+      <dateOfBirth>06/12/2011</dateOfBirth>
+      <address>Clonmel</address>
+      <phoneNumber>085 958 3372</phoneNumber>
+      <specialInterests>
+        <SpecialInterest>
+          <interestCategory>Music</interestCategory>
+          <details>Part of a young Irish trad band</details>
+          <dateBadgeReceived>04/02/2020</dateBadgeReceived>
+        </SpecialInterest>
+        <SpecialInterest>
+          <interestCategory>Dancing</interestCategory>
+          <details>Participates in Irish Dancing classes</details>
+          <dateBadgeReceived>12/12/2019</dateBadgeReceived>
+        </SpecialInterest>
+      </specialInterests>
+      <parentPhone>089 657 4673</parentPhone>
+    </BeaverScout>
+    <CubScout>
+      <name>Ruaidhrí Maxwell</name>
+      <county>Limerick</county>
+      <dateOfBirth>03/11/2003</dateOfBirth>
+      <address>Limerick City</address>
+      <phoneNumber>089 234 4859</phoneNumber>
+      <specialInterests>
+        <SpecialInterest>
+          <interestCategory>Personal Fitness</interestCategory>
+          <details>Part of local school&apos;s Track and Field team</details>
+          <dateBadgeReceived>14/05/2019</dateBadgeReceived>
+        </SpecialInterest>
+        <SpecialInterest>
+          <interestCategory>Orienteering</interestCategory>
+          <details>Winner of the Limerick Orienteering competition 2018</details>
+          <dateBadgeReceived>20/08/2018</dateBadgeReceived>
+        </SpecialInterest>
+      </specialInterests>
+      <cubPhoneNumber>087 485 8585</cubPhoneNumber>
+    </CubScout>
+    <CubScout>
+      <name>Ian Lynam</name>
+      <county>Dublin</county>
+      <dateOfBirth>09/06/2004</dateOfBirth>
+      <address>AdamsTown</address>
+      <phoneNumber>098 747 4848</phoneNumber>
+      <specialInterests>
+        <SpecialInterest>
+          <interestCategory>Crafts</interestCategory>
+          <details>Part of the wood work club in AdamsTown</details>
+          <dateBadgeReceived>31/04/2017</dateBadgeReceived>
+        </SpecialInterest>
+      </specialInterests>
+      <cubPhoneNumber>087 648 8472</cubPhoneNumber>
+    </CubScout>
+    <Scouter>
+      <name>Rhys Matthews</name>
+      <county>Carlow</county>
+      <dateOfBirth>10/10/2000</dateOfBirth>
+      <address>Tullow</address>
+      <phoneNumber>083 293 9384</phoneNumber>
+      <specialInterests>
+        <SpecialInterest>
+          <interestCategory>Swimming</interestCategory>
+          <details>Won the Carlow 25m Race in 2019</details>
+          <dateBadgeReceived>10/03/2019</dateBadgeReceived>
+        </SpecialInterest>
+      </specialInterests>
+      <dateOfVetting>03/12/2018</dateOfVetting>
+    </Scouter>
+    <Scouter>
+      <name>Sarah Mooney</name>
+      <county>Roscommon</county>
+      <dateOfBirth>13/07/2000</dateOfBirth>
+      <address>Boyle</address>
+      <phoneNumber>085 958 4837</phoneNumber>
+      <specialInterests>
+        <SpecialInterest>
+          <interestCategory>Languages</interestCategory>
+          <details>Studies languages in NUIG</details>
+          <dateBadgeReceived>21/03/2020</dateBadgeReceived>
+        </SpecialInterest>
+      </specialInterests>
+      <dateOfVetting>23/09/2019</dateOfVetting>
+    </Scouter>
+    <CubScout>
+      <name>Bob Walker</name>
+      <county>Carlow</county>
+      <dateOfBirth>16/03/2010</dateOfBirth>
+      <address>Rathoe</address>
+      <phoneNumber>087 374 8472</phoneNumber>
+      <specialInterests>
+        <SpecialInterest>
+          <interestCategory>Photography</interestCategory>
+          <details>Won Carlow&apos;s annual Kids Photography Contest in 2019</details>
+          <dateBadgeReceived>01/09/2019</dateBadgeReceived>
+        </SpecialInterest>
+      </specialInterests>
+      <cubPhoneNumber>089 758 4838</cubPhoneNumber>
+    </CubScout>
+  </list>
+</object-stream>
